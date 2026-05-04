@@ -55,12 +55,18 @@ Breeze 是一款基于 Electron + React + TypeScript 构建的本地密码管理
 
 ### 新手引导
 > 首次使用时，Breeze 会通过 4 步引导介绍主密码的概念和重要性
+<img width="3292" height="2152" alt="image" src="https://github.com/user-attachments/assets/4ff3beb3-a2a5-47ac-8ff7-c7ea98a46357" />
+
 
 ### 登录界面
 > 简洁的登录/创建保险库界面，支持显示/隐藏密码
+<img width="1646" height="1076" alt="image" src="https://github.com/user-attachments/assets/7e904dcd-a0a6-4a5a-891e-8517e290ebca" />
+
 
 ### 主界面
 > 三栏布局：分类导航 | 密码列表 | 详情面板
+<img width="1646" height="1076" alt="image" src="https://github.com/user-attachments/assets/f2667131-8b55-41d0-9e61-ac0508cbd2d9" />
+
 
 </div>
 
